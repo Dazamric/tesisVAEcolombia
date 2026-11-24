@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: Si usa este código, cítelo como se indica.
+title: Código de la tesis Medición del valor agregado en la educación superior colombiana
+authors:
+  - family-names: Zambrano Ricaurte
+    given-names: Danilo
+version: 1.0.0
+repository-code: https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO

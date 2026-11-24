@@ -1,0 +1,4 @@
+*.csv
+salida_*/
+fig_*.png
+__pycache__/
